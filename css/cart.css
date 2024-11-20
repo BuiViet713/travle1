@@ -253,7 +253,7 @@ label{
 .banner-area {
     height: 60vh;
     width: 100%;
-    background: linear-gradient( #1c1a2521, #000000ab),url(/image/combo-du-thuyen-ha-long-ivivu-4.jpg) no-repeat;
+    background: linear-gradient( #1c1a2521, #000000ab),url(image/combo-du-thuyen-ha-long-ivivu-4.jpg) no-repeat;
     /* background-color: #eee; */
     background-attachment: fixed;
     background-position: center center;
